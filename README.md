@@ -1,5 +1,5 @@
 # api_server_test2
-a little api server completed by nodeJs
+Api server completed by nodeJs
 
 #app.js是主文件，负责开启服务器，中间挂载负责注册登录，上传文件的路由
 
